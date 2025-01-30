@@ -62,4 +62,21 @@ Place your models in the `ComfyUI/models/Janus-Pro` folder:
    ```
    ComfyUI/models/Janus-Pro/Janus-Pro-1B/
    ComfyUI/models/Janus-Pro/Janus-Pro-7B/
-   ``` 
+   ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CY-CHENYUE/ComfyUI-Janus-Pro&type=Date)](https://star-history.com/#CY-CHENYUE/ComfyUI-Janus-Pro&Date)
+
+## Contact Me
+
+- X (Twitter): [@cychenyue](https://x.com/cychenyue)
+- TikTok: [@cychenyue](https://www.tiktok.com/@cychenyue)
+- YouTube: [@CY-CHENYUE](https://www.youtube.com/@CY-CHENYUE)
+- BiliBili: [@CY-CHENYUE](https://space.bilibili.com/402808950)
+- Xiaohongshu: [@CY-CHENYUE](https://www.xiaohongshu.com/user/profile/6360e61f000000001f01bda0)
+
+---
+<div align="center">
+    If you find this project helpful, please give it a Star ⭐️
+</div> 

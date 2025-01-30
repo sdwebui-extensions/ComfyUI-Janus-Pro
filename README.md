@@ -6,6 +6,7 @@ ComfyUI 的 Janus-Pro 节点，一个统一的多模态理解和生成框架。
 
 ![alt text](<workflow/ComfyUI Janus-Pro-workflow.png>)
 
+
 ## 安装方法
 
 ### 方法一：通过 ComfyUI Manager 安装（推荐）
@@ -63,3 +64,19 @@ python -m pip install -r requirements.txt
    ComfyUI/models/Janus-Pro/Janus-Pro-1B/
    ComfyUI/models/Janus-Pro/Janus-Pro-7B/
    ```
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CY-CHENYUE/ComfyUI-Janus-Pro&type=Date)](https://star-history.com/#CY-CHENYUE/ComfyUI-Janus-Pro&Date)
+
+## Contact Me
+
+- X (Twitter): [@cychenyue](https://x.com/cychenyue)
+- TikTok: [@cychenyue](https://www.tiktok.com/@cychenyue)
+- YouTube: [@CY-CHENYUE](https://www.youtube.com/@CY-CHENYUE)
+- BiliBili: [@CY-CHENYUE](https://space.bilibili.com/402808950)
+- 小红书: [@CY-CHENYUE](https://www.xiaohongshu.com/user/profile/6360e61f000000001f01bda0)
+
+---
+<div align="center">
+    如果这个项目对你有帮助，请给它一个 Star ⭐️
+</div>
