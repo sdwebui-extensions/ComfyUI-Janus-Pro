@@ -40,10 +40,10 @@ class JanusModelLoader:
                                os.path.basename(model_name))
         if not os.path.exists(model_dir):
             if os.path.exists(os.path.join(folder_paths.cache_dir, 
-                                "Janus-Pro",
+                                "models/Janus-Pro",
                                 os.path.basename(model_name))):
                 model_dir = os.path.join(folder_paths.cache_dir, 
-                               "Janus-Pro",
+                               "models/Janus-Pro",
                                os.path.basename(model_name))
             else:
                 raise ValueError(f"Local model not found at {model_dir}. Please download the model and place it in the ComfyUI/models/Janus-Pro folder.")
